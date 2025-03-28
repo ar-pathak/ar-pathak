@@ -30,7 +30,7 @@ I am also exploring **freelancing opportunities** and working on **high-quality 
 ---
 
 ### 📫 Let's Connect!
-💼 [LinkedIn](https://www.linkedin.com/in/arsan-pathak-02a79a2a9/)  
+💼 [LinkedIn](https://www.linkedin.com/in/pathakarsan/)  
 📧 **Email:** pathakarsan@gmail.com  
 💻 [Portfolio](https://arsanpathak.vercel.app/) *(Coming Soon!)*
 
