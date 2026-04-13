@@ -146,6 +146,7 @@ I'm a full-stack developer from **Lucknow, India**, focused on building scalable
 
 | Platform | Link |
 |:---|:---|
+| 📧 Email | pathakarsan@gmail.com |
 | 💼 LinkedIn | [linkedin.com/in/pathakarsan](https://www.linkedin.com/in/pathakarsan) |
 | 🟢 Upwork | [Freelance Profile](https://www.upwork.com/freelancers/~018012e7f51e134178) |
 | 🧩 LeetCode | [Problem Solving](https://leetcode.com/u/7NBfO1X9NT/) |
